@@ -47,8 +47,8 @@
 
 ## 📫 Contacto Directo
 
-* **Email:** [Tu Email]
-* **GitHub:** [Mi Perfil] (https://github.com/vnoblega)
+* **Email:** mendoza24@gmail.com
+* **GitHub:** https://github.com/vnoblega
 
 <br>
 ✨ ¡Gracias por visitar mi espacio! Siempre en la búsqueda de nuevos desafíos. 🚀
